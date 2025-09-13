@@ -1,51 +1,5 @@
 provide answers below the questions (option names are enough)
 
-section 1 (git)
-
-Q1. What command makes a new Git repository?
-a) git start
-b) git repo
-c) git init 
-d) git make
-
-ans:
-
-Q2. Which command checks the current repo status?
-a) git check
-b) git status 
-c) git info
-d) git show
-
-ans:
-
-Q3. To save changes in Git, you first…
-a) Commit them 
-b) Delete them
-c) Clone them
-d) Push them
-
-ans:
-
-Q4. Which word means a snapshot of your code?
-a) Pull
-b) Commit 
-c) Branch
-d) Merge
-
-ans:
-
-Q5. Which command downloads code from GitHub?
-a) git clone 
-b) git copy
-c) git get
-d) git download
-
-ans:
-
-
-
-section 2 (general)
-
 Q1. Who says “I am Iron Man”?
 a) Steve Rogers
 b) Bruce Banner
@@ -85,47 +39,11 @@ c) Mahishmati
 d) Kalakeya
 
 ans:
+Q5.Full form of LBS
 
-section 3 (tech)
-
-Q1. Which company owns the search engine “Bing”?
-a) Google
-b) Microsoft 
-c) Yahoo
-d) Amazon
+a)Lakshman Bapu Sathe
+b)Lal Bahadur Shastri
+c)Lal Bihari Sharma
+d)London Business School
 
 ans:
-
-Q2. Which company created the Android operating system?
-a) Google 
-b) Apple
-c) Microsoft
-d) Samsung
-
-ans:
-
-Q3. Which social media platform is known for disappearing messages?
-a) Instagram
-b) Snapchat 
-c) Twitter
-d) Facebook
-
-ans:
-
-Q4. Which company recently launched an AI chatbot called “Gemini”?
-a) Google 
-b) Microsoft
-c) Meta
-d) OpenAI
-
-ans:
-
-Q5. What does "Wi-Fi" stand for?
-A) Wireless Fidelity
-B) Wide Fidelity
-C) Wireless Fiber
-D) Nothing, it's a marketing term
-
-ans:
-
-
